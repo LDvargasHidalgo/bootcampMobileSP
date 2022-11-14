@@ -1,5 +1,7 @@
 # bootcampMobileSP
 Challenge 1 Bootcamp Sophos
+
+
 #Exercise 1
 a. Crear un método que genere y retorne una cadena de texto (String) de forma
 aleatoria con una longitud igual a 10 caracteres, y que serán únicamente
